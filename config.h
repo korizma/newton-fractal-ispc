@@ -4,13 +4,13 @@
 #define HEIGHT (1 << HEIGHT_POW)
 #define WIDTH (1 << WIDTH_POW)
 
-#define XMAX 2
-#define XMIN -2
-#define YMAX 2
-#define YMIN -2
+#define XMAX 1
+#define XMIN -1
+#define YMAX 1
+#define YMIN -1
 
-#define MAX_ITERATIONS 1000
-#define EPSILON 10e-5
+#define MAX_ITERATIONS 100
+#define EPSILON 10e-8
 
 #define OUTPUT_IMAGE "picture.ppm"
 
