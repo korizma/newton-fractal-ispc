@@ -1,0 +1,6 @@
+cleanDir.sh
+compile.sh
+main
+parallel_functions.o
+parallel_functions.h
+picture.ppm
